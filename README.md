@@ -22,7 +22,7 @@ This **Sales Analytics Dashboard** is an Excel-based project designed to provide
 - Designed **structured input forms** for data entry  
 - Implemented **VBA macros** for automated data submission  
 - Enabled **auto-population** and real-time data storage
-  ![Alt text](https://github.com/RamVemula07/Retail-Sales-Dashboard/blob/main/Dashboard.png)
+  ![Alt text](https://github.com/RamVemula07/Retail-Sales-Dashboard/blob/main/Sales%20Form.png)
 
 
 🔹 **Interactive Dashboard Development**  
